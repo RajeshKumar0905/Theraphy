@@ -1,6 +1,6 @@
-#THERAPHY_website
+# THERAPHY_website
 
-The website allows users to  browse through different types of therapy sessions, book appointments. The app also features a blog section where users can read articles on various topics related to mental health and wellness.
+The Theraphy website allows users to  browse through different types of therapy sessions, book appointments. The app also features a blog section where users can read articles on various topics related to mental health and wellness.
 ![1](https://github.com/RajeshKumar0905/Theraphy/assets/151514338/e56498a4-7429-4ffb-b353-854839b735c7)
 ![2](https://github.com/RajeshKumar0905/Theraphy/assets/151514338/3b1f6962-db4d-4336-a4c4-d55c469db0d2)
 ![3](https://github.com/RajeshKumar0905/Theraphy/assets/151514338/f5a4bfc8-1426-4392-8572-2ad17b40dda0)
